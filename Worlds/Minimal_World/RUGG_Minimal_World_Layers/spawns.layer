@@ -1,0 +1,65 @@
+$grp SCR_SpawnPoint : "{2ED38EF0FDAA7BAD}prefabs/Arena/SpawnPoint_GunGame.et" {
+ {
+  coords 93.475 1 125.517
+  angleY 100.391
+ }
+ {
+  coords 128.613 1 100.962
+ }
+ {
+  coords 100.863 1.044 140.756
+  angleY 158.345
+ }
+ {
+  coords 128.768 1 142.448
+  angleY -138.179
+ }
+ {
+  coords 110.765 1 125.039
+  angleY 100.318
+ }
+ {
+  coords 94.528 1 137.218
+  angleY 115.38
+ }
+ {
+  coords 136.091 1 109.827
+ }
+ {
+  coords 105.192 1 112.006
+  angleY 38.883
+ }
+ {
+  coords 101.938 1.026 126.478
+ }
+ {
+  coords 97.563 1.031 114.706
+ }
+ {
+  coords 98.601 1 143.067
+  angleY 74.271
+ }
+ {
+  coords 107.302 1.046 141.405
+  angleY -133.927
+ }
+ {
+  coords 141.952 5.138 144.579
+  angleY -113.801
+ }
+ {
+  coords 146.677 1 138.003
+  angleY 162.169
+ }
+ {
+  coords 94.4 1 134.412
+ }
+ {
+  coords 110.546 1 134.3
+  angleY 14.693
+ }
+ {
+  coords 116.69 1 116.652
+  angleY -93.629
+ }
+}

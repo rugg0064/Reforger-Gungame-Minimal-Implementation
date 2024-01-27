@@ -1,0 +1,63 @@
+SCR_AIWorld SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ coords 114.399 1 108.482
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "SCR_AIWorld: "\
+   "Configure navigation mesh"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 114.399 1 113.482
+}
+TagManager TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 114.399 1 114.482
+}
+SCR_FactionManager FactionManager_FFA1 : "{A1C54BBE72C5C696}Prefabs/MP/Managers/Factions/FactionManager_FFA.et" {
+ coords 130.611 2.451 126.127
+}
+GunGameMode GameMode_GunGame1 : "{B00D51315A1C7151}prefabs/GameMode/GameMode_GunGame.et" {
+ coords 114.647 3.772 121.759
+ PlayerLoadouts {
+  GunGameWeaponSelection "{60502BF51B6475C1}" {
+   resourceName "{D2B48DEBEF38D7D7}Prefabs/Weapons/MachineGuns/M249/MG_M249.et"
+   type "GUN"
+  }
+ }
+}
+RadioManagerEntity RadioManager : "{B8E09FAB91C4ECCD}Prefabs/Radio/RadioManager.et" {
+ coords 114.399 1 112.482
+}
+ScriptedChatEntity ScriptedChatEntity : "{F69BC912AC8236F9}Prefabs/MP/ScriptedChatEntity.et" {
+ coords 114.399 1 115.482
+}
+SCR_BaseTaskManager TaskManager : "{1AC69CD7907FB4F8}Prefabs/ScenarioFramework/Tasks/TaskManager.et" {
+ coords 114.399 1 109.482
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "TaskManager: "\
+   "Needed for task generation"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+RUGG_boundaryManagerEntity : "{6B8B5EA6AFEC9BD0}prefabs/Arena/ArenaManager.et" {
+ coords 118.01 1 130.105
+ TriggerShapeType Sphere
+ SphereRadius 35
+ DrawShape 0
+}
+SCR_LoadoutManager : "{B7E5D7F4864D81C1}prefabs/GameMode/LoadoutManager_GunGame.et" {
+ coords 123.288 2.049 126.876
+}

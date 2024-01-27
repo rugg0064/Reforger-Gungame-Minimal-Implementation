@@ -1,0 +1,8 @@
+GameProject {
+ ID "GungameImplementationMinimal"
+ GUID "604E5A887DC76562"
+ TITLE "GungameImplementationMinimal"
+ Dependencies {
+  "604C30B1720985A9" "58D0FB3206B6F859"
+ }
+}
