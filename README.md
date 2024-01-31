@@ -7,7 +7,7 @@ A playable implementation of the Gungame mod for Arma Reforger.
 ### Editor
 
 1. Clone this repo into any directory
-2. This mod relies on it's gamemode [https://github.com/?q=reforger](https://github.com/?q=reforger), clone it to the same directory as this project
+2. This mod relies on it's gamemode [https://github.com/rugg0064/Reforger-Gungame](https://github.com/rugg0064/Reforger-Gungame), clone it to the same directory as this project
 3. Open Arma Reforger Tools
 4. Click "Add Project" -> Scan for Projects, select the directory containing the projects
 5. Open GungameImplementationMinimal
