@@ -24,6 +24,12 @@ SCR_FactionManager FactionManager_FFA : "{A1C54BBE72C5C696}Prefabs/MP/Managers/F
 }
 GunGameMode GameMode_GunGame : "{B00D51315A1C7151}prefabs/GameMode/GameMode_GunGame.et" {
  coords 120.717 1 119.844
+ PlayerLoadouts {
+  GunGameWeaponSelection "{607C681075E43CE1}" {
+   resourceName "{FA5C25BF66A53DCF}Prefabs/Weapons/Rifles/AK74/Rifle_AK74.et"
+   type "GUN"
+  }
+ }
 }
 RadioManagerEntity RadioManager : "{B8E09FAB91C4ECCD}Prefabs/Radio/RadioManager.et" {
  coords 114.399 1 112.482
